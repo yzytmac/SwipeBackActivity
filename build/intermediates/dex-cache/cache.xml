@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_b3860f754da78c589998351766c912224be42403.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_b83ebc2ba178656bc929195eb3d915990e9525c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/SwipeBackActivity/swipback/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd8ced1335a984d5145356661a71f051c4a7affb">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/SwipeBackActivity-swipback-unspecified_1b6240ca75f54126510916d95d695399f6ad13a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_cd715579272885795a94fb53a336e5d80aca81d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_afb45ddffd78fdbceaf93a661a3a0812dec33a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_cc72a0f30b60363df832f0b6c9e752158788bf94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_85d7331cf7e8d3fc5d23dfb726bce7db9009a0f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_8c2d1a8d73229cb809f8b4024cbb550d7d507f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/SimpleDemo/swipback/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd8ced1335a984d5145356661a71f051c4a7affb">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/SimpleDemo-swipback-unspecified_5601670ffa527abc6c76e5f386d85448401cd5bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_6f30d0a792435fbfc7114c0e63d85877656e5ace.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_bd5183dfeb3c04364f5e9b7f14728eff8e86e511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_db39d213ab0a64e0ba5e991f39e85743f00fe9bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_e9643aa4fe65a4d0db1d9a2194ac58d00a801fe1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_78cb6ac52110df11addb2a3c0df294d2df4bdddd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_84020e9510a420af9f7efec0a5b034725f10fa9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_d2c4190c72cad95c2be03e40b8fab275257eefc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_ef3f961b9a83f9445a339b174aa1beead683425a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_2d20c610a15bfd060c13ccb6080ac0d051dc456f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/yzy/AndroidStudioProjects/SwipeBackActivity/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_99efeedf14987ff34fd4c72d7e42ef3859fa99a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_2688e1bb2dddc2c1391d4eb2d8c3f46a16d0d60c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/yzy/DevTools/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/yzy/AndroidStudioProjects/SimpleDemo/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_f2f5482e3a0499ea21d3c5b63ca6ca12c95cfaf2.jar" />
+    </item>
+
+</items>
